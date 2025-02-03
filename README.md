@@ -1,3 +1,4 @@
+![logo](https://www.figma.com/design/wCBhYOCDCE9MxxD2lkvONV/Vizality-Addon-Banner-(Community)-(Community)?node-id=0-1&t=Xt2Vc3K5kZBYqxga-1)
 <h1 align="center">Hi 👋, I'm Wajeeha Nadeem</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpPyhzYivt3PFr70TGQ_N3ndhWKpDHTiOacg&s">
