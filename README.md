@@ -1,4 +1,4 @@
-![logo](blob:https://web.whatsapp.com/4ad3b6ca-e61f-489c-9bb5-a34fbbfd0473)
+![logo](https://github.com/wajeehanadeem649/hostelmanagement/blob/main/banner.jpeg)
 <h1 align="center">Hi 👋, I'm Wajeeha Nadeem</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpPyhzYivt3PFr70TGQ_N3ndhWKpDHTiOacg&s">
